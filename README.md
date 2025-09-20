@@ -2,7 +2,7 @@
 
 Open-Source repository for the offline Version of czeskleba.com/visualizer/
 
-![BCC lattice with insterstitual spots marked](assets/Unbenannt.PNG) ![1 million atoms makes for a pretty picture](assets/Unbenannt2.PNG) 
+<img src="assets/Unbenannt.PNG" alt="BCC lattice" width="49%"> <img src="assets/Unbenannt2.PNG" alt="1 million atoms" width="49%">
 
 ## License
 
