@@ -69,7 +69,7 @@ Search likely locations/env var for a default config file path.
     if env and Path(env).exists():
         return env
 
-    for name in ("config.yaml", "config.yml", "lattice.yaml", "lattice.yml"):
+    for name in ("User Input.yaml", "config.yml", "lattice.yaml", "lattice.yml"):
         for base in (Path.cwd(), Path(__file__).parent):
             cand = base / name
             if cand.exists():
