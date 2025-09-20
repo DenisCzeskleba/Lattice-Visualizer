@@ -1,6 +1,6 @@
 # Lattice-Visualizer ![WIP Badge](https://img.shields.io/badge/status-WIP-yellow.svg) <a href="https://www.buymeacoffee.com/DenisCzeskleba"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 
-Open-Source repository for the offline Version of czeskleba.com/visualizer/
+Open-Source repository for the offline version (.exe and raw python code) of czeskleba.com/visualizer/
 
 <img src="assets/Unbenannt.PNG" alt="BCC lattice" width="49%"> <img src="assets/Unbenannt2.PNG" alt="1 million atoms" width="49%">
 
