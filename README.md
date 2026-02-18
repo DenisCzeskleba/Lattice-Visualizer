@@ -1,4 +1,4 @@
-# Lattice-Visualizer ![WIP Badge](https://img.shields.io/badge/status-WIP-yellow.svg) <a href="https://www.buymeacoffee.com/DenisCzeskleba"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
+# Lattice Visualizer ![WIP Badge](https://img.shields.io/badge/status-WIP-yellow.svg) <a href="https://www.buymeacoffee.com/DenisCzeskleba"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" height="20px"></a>
 
 Open-Source repository for the offline version (.exe and raw python code) of [czeskleba.com/visualizer](https://czeskleba.com/visualizer/).
 
